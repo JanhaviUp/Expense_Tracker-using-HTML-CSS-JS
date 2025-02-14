@@ -24,3 +24,8 @@ View Updates
 The balance, income, and expenses update automatically.
 Delete a Transaction
 Click the x button next to any transaction to remove it.
+
+
+Website Demo
+![Website Image](https://github.com/user-attachments/assets/ba3021c8-0dc8-43a5-9482-067addc515f1)
+
